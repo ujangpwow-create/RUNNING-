@@ -1,0 +1,6 @@
+{
+  "name": "Velorun: Lari & Sepeda",
+  "description": "Pelacak aktivitas lari dan bersepeda gratis tanpa fitur berbayar dengan leaderboard mingguan antar teman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
